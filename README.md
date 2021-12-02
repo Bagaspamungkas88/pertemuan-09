@@ -1,5 +1,6 @@
 # pertemuan 09
 # soal
+
 ![img](soal1.png)
 
 pada modul praktikum 4 saya diberi soal seperti dibawah :
@@ -52,6 +53,7 @@ dari soal diatas saya menjawab dengan cara sebagai berikut:
         print(c)
 
 berikut ini adalah screenshot pada visual studio code
+
     ![img](ss1.png)
 
 # OUTPUT
@@ -67,7 +69,7 @@ berikut output dari program diatas
 pertama sebelum membuat program saya membuat flowchart terlebih dahulu
 berikut flowchart yang telah dibuat
 
-    ![img](flowchart.png)
+![img](flowchart.png)
 
 
 # jawab
@@ -111,12 +113,14 @@ saya juga membuat percabangan if untuk apabila menginput 't'
 
     else:
         break
-    dari program diatas berikut screenshot pada visual studio code      
+dari program diatas berikut screenshot pada visual studio code      
+
 ![img](ss2.png)
 
 # output
 
 dari program diatas saya mendapatkan output sebagai berikut
+
 
 ![img](outputss2.png)
 
