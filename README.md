@@ -1,7 +1,8 @@
 # pertemuan 09
 # soal
 
-![img](soal1.png)
+![img](gambar/soal1.png)
+
 
 pada modul praktikum 4 saya diberi soal seperti dibawah :
 # jawab
@@ -54,22 +55,25 @@ dari soal diatas saya menjawab dengan cara sebagai berikut:
 
 berikut ini adalah screenshot pada visual studio code
 
-    ![img](ss1.png)
+ ![img](gambar/ss1.png)
 
 # OUTPUT
-    ![img](otpt1.png)
+
+![img](gambar/otpt1.png)
 
 berikut output dari program diatas
 #TUGAS PRATIKUM
 # soal
-    ![img](soalptk.png)
+
+ ![img](gambar/soalptk.png)
 
 # flowchart
 
 pertama sebelum membuat program saya membuat flowchart terlebih dahulu
 berikut flowchart yang telah dibuat
 
-![img](flowchart.png)
+![img](gambar/flowchart.png)
+
 
 
 # jawab
@@ -115,14 +119,14 @@ saya juga membuat percabangan if untuk apabila menginput 't'
         break
 dari program diatas berikut screenshot pada visual studio code      
 
-![img](ss2.png)
+![img](gambar/ss2.png)
 
 # output
 
 dari program diatas saya mendapatkan output sebagai berikut
 
 
-![img](outputss2.png)
+![img](gambar/outputss2.png)
 
 
 
